@@ -13,7 +13,7 @@ https://csuglobal.edu/academic-programs/undergraduate-degrees/bachelors-degree-c
 
 CSC300 - Operating Systems and Architecture
 Professor: Joe Rangitsch
-Fall Spring - 2023
+Spring - 2023
 Student: Alejandro (Alex) Ricciardi
 
 Final grade: A+ 100%
@@ -28,7 +28,7 @@ with the number  6  representing the oldest and the first assignment.
 The Discussions folder contains my discussion posts. 
 
 -----------------------------------------------------------------------------------------------------------------------------
-					           Assignements
+					           Assignments
 -----------------------------------------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------
@@ -43,7 +43,7 @@ Portfolio Essay:
 	Grade: 350/350 A+
 
 
-Portfolio Essay Describition:
+Portfolio Essay Description:
 
 Choose one of the following two assignments to complete this week. Do not do both assignments. 
 Identify your assignment choice in the title of your submission.
@@ -100,7 +100,7 @@ Essay:
 	Title: File Operations and File Types within Operating Systems
 	Grade: 65/65 A+
 												 
-Essay Describition:
+Essay Description:
 
 Critical Thinking Assignment (65 Points)
 File System Structure Observation
@@ -178,7 +178,7 @@ Essay:
 	Title: Setting Up a Virtual Network with Kali Linux, Ubuntu, and Windows 11 using VirtualBox
 	Grade: 65/65 A+
 
-Essay Describition:
+Essay Description:
 
 Critical Thinking Assignment (65 Points)
 Virtual Machines and Security
@@ -209,7 +209,7 @@ Essay:
 	Title: An Overview of Memory Management in Computing Systems
 	Grade: 65/65 A+
 
-Essay Describition:
+Essay Description:
 
 Critical Thinking Assignment (65 Points)
 Memory Management
@@ -257,7 +257,7 @@ Essay:
 	Title: Deadlock: Characteristics and Handling Strategies
 	Grade: 65/65 A+
 
-Essay Describition:
+Essay Description:
 
 Critical Thinking Assignment (65 Points)
 Deadlocks
@@ -287,7 +287,7 @@ Essay:
 	Title: An Overview of Thread Implementation in Multi-Threaded Computer Systems
 	Grade: 60/60 A+ 
 
-Essay Describition:
+Essay Description:
 
 Critical Thinking Assignment (60 Points)
 Multi-threaded Computer Systems
@@ -315,7 +315,7 @@ Essay:
 	Title: An Overview of Operating System Services and Functions
 	Grade: 50/50 A+ 
 
-Essay Describition:
+Essay Description:
 
 Critical Thinking Assignment (50 Points)
 Operating Systems and Structures
