@@ -16,14 +16,14 @@ Professor: Joe Rangitsch
 Fall Spring - 2023
 Student: Alejandro (Alex) Ricciardi
 
-Final grade: A+
+Final grade: A+ 100%
 
 -----------------------------------------------------------------------------------------------------------------------------
 
 Map description:
 
 The essays are listed by number + name, the assignment number is a chronologic reference, 
-with the number ‘6’ representing the oldest and the first assignment.
+with the number  6  representing the oldest and the first assignment.
 
 The Discussions folder contains my discussion posts. 
 
@@ -32,15 +32,15 @@ The Discussions folder contains my discussion posts.
 -----------------------------------------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------
-0_Module_8 Portfolio A Journey of Growth and Transformation at CSU Global.pdf
+0_Module_8 Portfolio Solutions for a Business Enterprise-Wide Upgrade.pdf
 ------------------------------------------------------------------------------
 
-Module 8: Portfolio Project
+Module 8: Portfolio Project 
 
 Portfolio Essay:
 	
-	Title: Portfolio: A Journey of Growth and Transformation at CSU Global
-	Grade:
+	Title: Portfolio: Solutions for a Business Enterprise-Wide Upgrade
+	Grade: 350/350 A+
 
 
 Portfolio Essay Describition:
@@ -319,9 +319,9 @@ Essay Describition:
 
 Critical Thinking Assignment (50 Points)
 Operating Systems and Structures
-On a Linux machine, run the command of “systemctl list-units  - - type=service”.
+On a Linux machine, run the command of  systemctl list-units  - - type=service .
 
-Similarly, on a Windows machine, run the command of “net start”.
+Similarly, on a Windows machine, run the command of  net start .
 
 Find at least 3 services, explain the services you selected. Based on what we learned from Module 1: Introduction to Operating-System and Structures, write an essay about essential services that operating systems provide.
 
